@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,23 +17,13 @@ namespace PracticeObjectOrientedDesign
     {
         static void Main(string[] args)
         {
-            Shape circle = new Shape
-            {
-                Type = ShapeType.Circle,
-                Radius = 5
-            };
+            IShape circle = new Circle(2);
+            IShape square = new Square(15);
+            IShape triangle = new Triangle(5,10);
 
-            Shape square = new Shape
-            {
-                Type = ShapeType.Square,
-                SideLength = 10
-            };
-
-            double circleArea = circle.CalculateArea();
-            double squareArea = square.CalculateArea();
-
-            Console.WriteLine("円の面積: " + circleArea);
-            Console.WriteLine("正方形の面積: " + squareArea);
+            Console.WriteLine("円の面積: " + circle.CalculateArea());
+            Console.WriteLine("正方形の面積: " + square.CalculateArea());
+            Console.WriteLine("三角形の面積:" +  triangle.CalculateArea());
         }
     }
 }

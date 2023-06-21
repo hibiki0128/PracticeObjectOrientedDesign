@@ -1,0 +1,8 @@
+C:\Users\sakai hibiki\Desktop\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\bin\Debug\PracticeObjectOrientedDesign.exe.config
+C:\Users\sakai hibiki\Desktop\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\bin\Debug\PracticeObjectOrientedDesign.exe
+C:\Users\sakai hibiki\Desktop\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\bin\Debug\PracticeObjectOrientedDesign.pdb
+C:\Users\sakai hibiki\Desktop\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.csproj.AssemblyReference.cache
+C:\Users\sakai hibiki\Desktop\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakai hibiki\Desktop\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.csproj.CoreCompileInputs.cache
+C:\Users\sakai hibiki\Desktop\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.exe
+C:\Users\sakai hibiki\Desktop\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.pdb
